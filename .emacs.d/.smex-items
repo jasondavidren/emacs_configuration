@@ -1,0 +1,42 @@
+
+;; ----- smex-history -----
+(
+ el-get-install
+ el-get-init
+ el-get-update-all
+ projectile-find-file
+ el-get-cd
+ package-list-packages
+ sr-speedbar-open
+)
+
+;; ----- smex-data -----
+(
+ (shell . 15)
+ (color-theme-sanityinc-solarized-light . 3)
+ (color-theme-gray1 . 2)
+ (color-theme-select . 1)
+ (color-theme-snow . 1)
+ (color-theme-billw . 1)
+ (load-theme . 5)
+ (slime . 1)
+ (setup-specified-language-environment . 3)
+ (describe-variable . 1)
+ (speedbar . 5)
+ (sr-speedbar-open . 8)
+ (global-page-break-lines-mode . 1)
+ (global-linum-mode . 1)
+ (visit-tags-table . 4)
+ (ac-mouse-1 . 3)
+ (diff . 2)
+ (kill-line . 1)
+ (dired . 7)
+ (find-grep-dired . 2)
+ (package-list-packages . 2)
+ (evil-align-left . 1)
+ (el-get-cd . 1)
+ (el-get-install . 11)
+ (projectile-find-file . 4)
+ (el-get-update-all . 1)
+ (el-get-init . 1)
+)
